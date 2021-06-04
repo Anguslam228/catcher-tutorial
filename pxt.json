@@ -8,6 +8,7 @@
     "files": [
         "main.blocks",
         "README.md",
+        "main.ts",
         "assets.json",
         "tutorial-info-cache.json"
     ],
